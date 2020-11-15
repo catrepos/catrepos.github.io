@@ -1,7 +1,7 @@
 {
 "companyName": "CAT",
-"productName": "Hurry Up!",
-"productVersion": "0.1",
+"productName": "Aprovasc Bowling Game",
+"productVersion": "1.0",
 "dataUrl": "WebGLRepo.data.unityweb",
 "wasmCodeUrl": "WebGLRepo.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGLRepo.wasm.framework.unityweb",
@@ -9,7 +9,6 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.14f1"
